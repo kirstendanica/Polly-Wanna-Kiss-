@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
@@ -192,7 +192,7 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
-=======
+
 body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
@@ -243,7 +243,7 @@ p {
 }
 
 .nav-link {
-  font-family: "Montserrat", sans-serif
+  font-family: "Montserrat", sans-serif;
   font-size: 1.2rem;
   font-weight: normal;
 }
@@ -335,7 +335,7 @@ p {
 }
 
 .carousel-item {
-  height: 300px
+  height: 300px;
   overflow: hidden;
   width: 100%;
 }
@@ -386,4 +386,3 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
->>>>>>> d80fdaf8e5b6f0f7d0e93b44121a04b1f202ba61
